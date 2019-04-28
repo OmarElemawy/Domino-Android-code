@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:src="@drawable/do_"
+            android:onClick="click"
+            android:layout_marginBottom="5dp"
+            />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:src="@drawable/do_"
+        android:onClick="click"
+        android:layout_marginBottom="5dp"
+        />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:src="@drawable/do_"
+        android:onClick="click"
+        android:layout_marginBottom="5dp"
+        />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:src="@drawable/do_"
+        android:onClick="click"
+        android:layout_marginBottom="5dp"
+        />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:src="@drawable/do_"
+        android:onClick="click"
+        android:layout_marginBottom="5dp"
+        />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:src="@drawable/do_"
+        android:layout_marginBottom="5dp"
+        android:onClick="click"
+        />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:src="@drawable/do_"
+        android:layout_marginBottom="5dp"
+        android:onClick="click"
+        />
+</LinearLayout>
